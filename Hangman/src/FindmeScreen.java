@@ -139,6 +139,7 @@ public class FindmeScreen extends JFrame {
             else{
                 //set the top label to this text:
                 label.setText("Your username '"+username+"' Was Found!");
+                label.setForeground(Color.GREEN);
                 playButton.setVisible(true);
 
                 //make everything else disappear:

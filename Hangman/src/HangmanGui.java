@@ -240,9 +240,12 @@ public class HangmanGui implements ActionListener {
                 Component[] components = letterPanel.getComponents();
                 for(Component c: components){
                     if(c.getName() != null && c.getName().equals(l.toLowerCase())){
-                        count+=1;
-                        c.setVisible(true);
+                        if(!c.isVisible()){
+                            count+=1;
+                            c.setVisible(true);
+                        }
                         exists = true;
+                        System.out.println(count);
                     }
                 }
                 //if the player won:
