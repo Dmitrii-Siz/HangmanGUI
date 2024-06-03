@@ -1,5 +1,8 @@
 # HangmanGUI
-2nd Year Java project
+This project was developed during my 2nd year at university, it is a hangman game application developed in Java.
+
+Technologies Used:
+- Java
 
 Video demonstating how the GUI app runs:
 
