@@ -1,5 +1,6 @@
 # HangmanGUI
 This project was developed during my 2nd year at university, it is a hangman game  developd in plain Java.
+To not over complicate things, the new players were randomly assigned usernames. Existing players could enter their username and log into their accounts. Best players (players that correctly guessed the most words) were placed at the top of the leaderboard.
 
 Technologies Used:
 - Java
