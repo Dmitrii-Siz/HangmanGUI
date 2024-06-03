@@ -5,7 +5,7 @@ To not over complicate things, the new players were randomly assigned usernames.
 Technologies Used:
 - Java
 
-Video demonstating how the GUI app runs:
+Video demonstating how the app runs:
 
 
 
